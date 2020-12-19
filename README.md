@@ -4,7 +4,7 @@
 Retrofire is a framework written in swift that generate API requests and build models elegantly. We combine two powerful libs, [Alamofire](https://github.com/Alamofire/Alamofire) and [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) to generate a better response to you.
 
 * Features
-* Instalation
+* Installation
 * Usage
 * Goals
 
